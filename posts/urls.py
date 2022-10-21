@@ -9,4 +9,3 @@ urlpatterns =[
     path('like/<int:post_id>/',views.LikeView,name='like')
 
 ]
-# fdghjkh
