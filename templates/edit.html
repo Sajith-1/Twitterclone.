@@ -16,8 +16,13 @@
            {% endif %}
           
             <div class="butns">
-                <a href="{% url 'index' %}"><button>Cancel</button></a>
-                <input type="submit" name="" id="" value="Update" />
+                <!-- <a href="/"  type="submit"><button>Cancel</button></a>
+                  <input type="submit" name="" id="" value="cancel" />  -->
+                 <!-- <a href="{% url 'index' %}" type="submit"><button>Update</button></a> -->
+
+                 <input class="upload-file" type="file" value="Choose File" name="image">
+                 <button class="cancel"><a href="/" type="submit">Cancel</a></button>
+                 <button class="update" type="submit">Update</button>
 
             </div>
             
