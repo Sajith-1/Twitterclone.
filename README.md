@@ -1,4 +1,4 @@
-# Twitter-Clone Readme
+# Twitter-Clone 
 
 Welcome to Twitter-Clone, a sample web application designed to mimic the basic functionalities of Twitter. This project aims to provide users with the ability to post tweets, edit and delete them, and like tweets from other users. Please note that this is a simplified version and does not include features like user accounts or following functionality.
 
